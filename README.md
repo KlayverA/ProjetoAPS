@@ -31,6 +31,7 @@ A cada nova guitarra alugada o fornecedor precisará atualizar a tabela de alugu
 - Modelo
 - Especificações 
 - Data do Aluguel
+- Preço
 
 # Prazos
 1. Definição do Sistema,Tecnologias, Planejamento no GIT e Requisitos: 08/11
